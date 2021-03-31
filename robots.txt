@@ -1,0 +1,4 @@
+Sitemap: http://zhaojinjian0000.work/sitemapindex.xml
+
+User-Agent: *
+Host: zhaojinjian0000.work
