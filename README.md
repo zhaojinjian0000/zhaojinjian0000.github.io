@@ -49,6 +49,7 @@
 # 项目经历
 ### 2021.11-2022.1    【导师项目】无人机自主跟踪系统
 - 内容不可见
+
 ### 2021.08-2021.08   【自学】MMDetection Contributor
 - Fix mosaic coordinate error(5947)：定位并修复Mosaic数据增广处理矩形图片时的BUG。
 - [Enchance] Add filter rules of Mosaic transform(5897)：定位并修复Mosaic数据增广单独使用时出现零面积框的BUG，并新增了滤除小目标的功能
